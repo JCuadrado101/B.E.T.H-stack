@@ -1,0 +1,19 @@
+{
+  "name": "b.e.t.h-stack",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest",
+    "drizzle-kit": "^0.19.13",
+    "typed-html": "^3.0.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/html": "^0.7.3",
+    "@libsql/client": "^0.3.5",
+    "drizzle-orm": "^0.28.6",
+    "elysia": "^0.7.16"
+  }
+}
